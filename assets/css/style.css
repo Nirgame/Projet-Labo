@@ -1,0 +1,37 @@
+h1 {
+    color: red;
+    text-align : Center;
+    font-size: 300%;
+   }
+
+   body {
+    background-image: url('https://cdn.wallpapersafari.com/13/14/Wcb9t8.jpg');
+    color: white;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+   }
+
+   .but {
+    text-align : Center;
+    margin-top: 50px;
+    font-size: 200%;
+   }
+
+   form {
+    margin-top : 10px;
+   }
+
+   p {
+    color: white;
+   }
+
+   .court {
+       width: 30% ;
+   }
+
+   .check {
+       text-align : Center;
+       margin-top : 50px;
+       font-size : 125%;
+   }
